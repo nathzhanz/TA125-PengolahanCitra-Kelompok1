@@ -12,7 +12,7 @@ Metrik: PSNR, SSIM, MAE, F1 tepi (Canny); uji Wilcoxon berpasangan; analisis keg
 |---|---|
 | Notebook Google Colab | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1XPJYI7uEGybDegiFA3G5xrfFeFUsYZYh?usp=sharing) |
 | Google Drive (laporan, presentasi, hasil) | https://drive.google.com/drive/folders/1DdpsvcNxsteuKPIEeJVzMRbmm_lZ8iDZ?usp=drive_link |
-| Repositori GitHub | [https://github.com/<USERNAME>/<NAMA-REPO> ](https://github.com/nathzhanz/TA125-PengolahanCitra-Kelompok1) |
+| Repositori GitHub | https://github.com/nathzhanz/TA125-PengolahanCitra-Kelompok1 |
 
 ## Struktur repositori
 
