@@ -61,16 +61,6 @@ Keluaran ada di `results/` dan `figures/`. Angka PSNR/SSIM identik pada setiap e
 
 Citra dipakai hanya untuk keperluan pembelajaran/penelitian non-komersial dan tidak disertakan di repositori ini.
 
-## Anggota kelompok
-
-| Nama | NIM |
-|---|---|
-| Muhammad Naufal Athallah (Ketua) | 1519624040 |
-| Salwa Khairunnisa | 1519624014 |
-| Rizkya Permata Iryani | 1519624005 |
-| Naila Shabrina | 1519624012 |
-| Putri Aprilia | 1519624001 |
-
 ## Lisensi
 
 Kode: MIT (lihat `LICENSE`). Dataset mengikuti lisensi/ketentuan sumber masing-masing.
